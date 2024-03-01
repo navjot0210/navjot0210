@@ -1,21 +1,18 @@
-![banner](./assets/bn.jpg)
+![banner](./assets/bg.PNG)
 
 ## About me
 Hi there, I am Navjot Kaur.
 A recent graduate with a degree in science, I am driven by a profound interest in coding and 
 software development. Throughout my academic journey, I discovered my passion for leveraging 
-technology to solve complex problems and create innovative solutions. My fascination with coding 
-stems from its ability to turn ideas into reality, empowering me to bring my creative visions to 
-life through lines of code.
+technology to solve complex problems and create innovative solutions.
 
 Driven by a relentless curiosity and a thirst for knowledge, I thrive on diving into new and 
 exciting challenges. I am deeply committed to continuous learning. Whether it's mastering a new 
 programming language, exploring cutting-edge technologies, or delving into the depth of software 
 architecture, I approach each learning experience with enthusiasm and determination.
 
-With a burning desire to carve out a career path in software development, I am fully dedicated to 
-honing my craft and becoming a proficient software developer. My goal is not only to build robust 
-and scalable software solutions but also to make a meaningful impact through innovation and 
+With a burning desire to carve out a career path in software development, my goal is not only to 
+build robust software solutions but also to make a meaningful impact through innovation and 
 creativity. As I embark on this exciting adventure, my passion for coding and my unwavering 
 commitment to growth will propel me toward success in the field of software development.
 
