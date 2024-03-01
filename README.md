@@ -1,4 +1,4 @@
-![banner](./assets/banner.jpg)
+![banner](./assets/bn.jpg)
 
 ## About me
 Hi there, I am Navjot Kaur.
