@@ -23,7 +23,13 @@ commitment to growth will propel me toward success in the field of software deve
 )
 ![CSS3](https://img.shields.io/badge/WEB-CSS-blue?style=for-the-badge
 )
+![Software](https://img.shields.io/badge/SOFTWARE-MICROSOFT-blue?style=for-the-badge
+)
 ![Electronics](https://img.shields.io/badge/ENGINEERING-ELECTRONICS-blue?style=for-the-badge
 )
 ![NanoTechnology](https://img.shields.io/badge/SCIENCE-NANOTECHNOLOGY-blue?style=for-the-badge
+)
+![Technical](https://img.shields.io/badge/TECHNICAL-DOCUMENTATION-blue?style=for-the-badge
+)
+![Presentation](https://img.shields.io/badge/PRESENTATION-PUBLIC%20SPEAKING-blue?style=for-the-badge
 )
