@@ -16,6 +16,8 @@ build robust software solutions but also to make a meaningful impact through inn
 creativity. As I embark on this exciting adventure, my passion for coding and my unwavering 
 commitment to growth will propel me toward success in the field of software development.
 
+<img src="https://komarev.com/ghpvc/?username=navjot0210&style=for-the-badge&color=blue">
+
 ### My Skills
 ![JavaScript](https://img.shields.io/badge/CODE-JAVASCRIPT-blue?style=for-the-badge
 )
