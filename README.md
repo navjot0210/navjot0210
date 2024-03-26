@@ -36,5 +36,8 @@ commitment to growth will propel me toward success in the field of software deve
 ![Presentation](https://img.shields.io/badge/PRESENTATION-PUBLIC%20SPEAKING-blue?style=for-the-badge
 )
 
+### My Stats
+![Navjot's GitHub stats](https://github-readme-stats.vercel.app/api?username=navjot0210&theme=github_dark&show_icons=true)
+
 ###
 [![Navjot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=navjot0210&bg_color=181720&color=3bb2ee&line=3bb2ee&point=fff&area=true&hide_border=true)](https://github.com/navjot0210/github-readme-activity-graph)
