@@ -1,4 +1,4 @@
-![banner](./assets/bg.PNG)
+![banner](./assets/backg.jpg)
 
 ## About me
 Hi there, I am Navjot Kaur.
