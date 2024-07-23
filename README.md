@@ -41,6 +41,3 @@ commitment to growth will propel me toward success in the field of software deve
 
 <p><img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=navjot0210&theme=github_dark&show_icons=true&locale=en" alt="dhillxnm" /></p>
 
-
-###
-[![Navjot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=navjot0210&bg_color=171820&color=4fa2ff&line=3bb2ee&point=fff&area=true&hide_border=true)](https://github.com/navjot0210/github-readme-activity-graph)
