@@ -37,8 +37,7 @@ commitment to growth will propel me toward success in the field of software deve
 )
 
 ### My Stats
+<p><img align="left" width="42%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=navjot0210&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="navjot0210" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=navjot0210&theme=github_dark&show_icons=true&locale=en&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=navjot0210&theme=github_dark&show_icons=true&locale=en)
+<p><img align="center" width="55%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=navjot0210&theme=github_dark&show_icons=true&locale=en" alt="navjot0210" /></p>
 
